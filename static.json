@@ -1,4 +1,8 @@
 {
+  "routes": {
+    "/login/**": "index.html"
+    "/sample/**": "main.js"
+  }
   "headers": {
     "/**": {
       "X-Author": "karagota",
