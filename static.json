@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/login/**": "index.html"
+    "/login/**": "index.html",
     "/sample/**": "main.js"
   }
   "headers": {
