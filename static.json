@@ -1,7 +1,7 @@
 {	
   "routes":{
 	  "/*.html": "index.html",
-    "/login/": "login.html",
+          "/login/": "login.html",
 	  "/sample/": "sample.html"
 	},
 	"headers":{
@@ -10,10 +10,10 @@
 	      "Content-Type": "text/plain; charset=UTF-8",
       	"Access-Control-Allow-Origin": "*"
 		},
-	  "/*/":{
+    "/*/":{
       	"X-Author": "karagota",
 	      "Content-Type": "text/plain; charset=UTF-8",
-      	"Access-Control-Allow-Origin": "*"
-		}
+      	       "Access-Control-Allow-Origin": "*"
+	}
   }
 }
