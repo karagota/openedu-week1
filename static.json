@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/sample/**": "main.js".
+    "/sample/**": "main.js",
     "/**": "index.html"    
   },
   "headers": {
