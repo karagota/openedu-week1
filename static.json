@@ -3,7 +3,7 @@
     "/*": {
       "X-Author": "karagota",
        "Access-Control-Allow-Origin": "*"
-    },
+    }
 
   }
 }
