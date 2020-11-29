@@ -1,20 +1,13 @@
 {
   "routes": {
-    "/login/**": "index.html",
-    "/sample/**": "main.js"
+    "/sample/**": "main.js".
+    "/**": "index.html"    
   },
   "headers": {
     "/**": {
       "X-Author": "karagota",
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-    },
-    "/login/**": {
-        "Content-Type" :"text/plain; charset=UTF-8"
-    },
-    "/sample/**": {
-        "Content-Type" :"text/plain; charset=UTF-8"
-    },
-
+    }
   }
 }
